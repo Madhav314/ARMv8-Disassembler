@@ -1,1 +1,1 @@
-java Main $1
+java Main
